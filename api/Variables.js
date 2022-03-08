@@ -15,19 +15,19 @@ let questions =
         answer: [
                     {
                         option: "Nueva Zelanda",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Estados Unidos",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Argentina",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Dinamarca",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -37,19 +37,19 @@ let questions =
         answer: [
                     {
                         option: "En el año 1969",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "En el año 1974",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "En el año 1958",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "En el año 1966",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -59,19 +59,19 @@ let questions =
         answer: [
                     {
                         option: "La batalla de Waterloo",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La batalla de Normandía",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La batalla de Stalingrado",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La batalla de Moscú",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -81,19 +81,19 @@ let questions =
         answer: [
                     {
                         option: "Venecia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Roma",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Madrid",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Paris",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -103,19 +103,19 @@ let questions =
         answer: [
                     {
                         option: "Ocurrió en el año 1994",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Ocurrió en el año 1980",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ocurrió en el año 1996",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ocurrió en el año 1988",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -125,19 +125,19 @@ let questions =
         answer: [
                     {
                         option: "Adolfo Suárez",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Leopoldo Calvo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Felipe González Márquez",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "José Luis Rodríguez Zapatero",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -147,19 +147,19 @@ let questions =
         answer: [
                     {
                         option: "Catalina de Aragón",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Jane Grey",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Mary Tudor",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ana Estuardo",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -169,19 +169,19 @@ let questions =
         answer: [
                     {
                         option: "Malinche",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Atotoztli",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Metztli",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Quetzalli",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -191,19 +191,19 @@ let questions =
         answer: [
                     {
                         option: "La disolución sucedió en el 1991",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La disolución sucedió en el 1987",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La disolución sucedió en el 1994",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La disolución sucedió en el 1982",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -213,19 +213,19 @@ let questions =
         answer: [
                     {
                         option: "La caída del imperio romano de Occidente, en el 476 d.C.",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La derrota de los persas en las Guerras Médicas en el 449 a.C.",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La derrota de Cártago en las Guerras Púnicas en el 146 a.C.",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Las invasiones germánicas a partir del siglo III d.C.",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -235,19 +235,19 @@ let questions =
         answer: [
                     {
                         option: "Hendaya",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Berlin",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Madrid",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Paris",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -257,19 +257,19 @@ let questions =
         answer: [
                     {
                         option: "Yugoslavia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Rusia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Alemania",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Inglaterra",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -279,19 +279,19 @@ let questions =
         answer: [
                     {
                         option: "Mijaíl Gorbachov",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Andréi Gromyko",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Vasili Kuznetsov",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Konstantín Chernenko",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -301,19 +301,19 @@ let questions =
         answer: [
                     {
                         option: "La Santa María",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La Niña",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La Pinta",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ninguna regresó",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -323,19 +323,19 @@ let questions =
         answer: [
                     {
                         option: "Liberia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Gambia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Togo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Sudán",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -345,19 +345,19 @@ let questions =
         answer: [
                     {
                         option: "La Gran Guerra",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La Guerra Mundial",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La Primera Guerra Mundial",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "Ninguna de las anteriores",
-                        true: false,
+                        option: "Ninguna de las restantes",
+                        isTrue: false,
                     },
                 ]
     },
@@ -367,19 +367,19 @@ let questions =
         answer: [
                     {
                         option: "Haití",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Argentina",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Brasil",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Mexico",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -389,19 +389,19 @@ let questions =
         answer: [
                     {
                         option: "La Epopeya de Gilgamesh",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La leyenda de Cutha",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Épica de Atrahasis",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Enuma Elish",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -411,19 +411,19 @@ let questions =
         answer: [
                     {
                         option: "Tiberio",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Marco Aurelio",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Galerio",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Calígula",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -433,19 +433,19 @@ let questions =
         answer: [
                     {
                         option: "La Batalla de Trafalgar",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La Batalla de Lepanto",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La Batalla de Yamen",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La Batalla de Tsushima",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -455,19 +455,19 @@ let questions =
         answer: [
                     {
                         option: "Manila",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Cebu",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Kuala Lumpur",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Hanói",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -477,19 +477,19 @@ let questions =
         answer: [
                     {
                         option: "El Amazonas",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "El Nilo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El Misisipi",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El Yangtsé",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -499,19 +499,19 @@ let questions =
         answer: [
                     {
                         option: "Ecuador",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Venezuela",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Paraguay",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Uruguay",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -521,19 +521,19 @@ let questions =
         answer: [
                     {
                         option: "Italia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Francia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Estados Unidos",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Portugal",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -543,19 +543,19 @@ let questions =
         answer: [
                     {
                         option: "El Monte Elbrús",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "El Monte Dij-Tau",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Shjara",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El Monte Kazbek",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -565,19 +565,19 @@ let questions =
         answer: [
                     {
                         option: "En Argentina",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "En Sudáfrica",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "En Mexico",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "En Canadá",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -587,19 +587,19 @@ let questions =
         answer: [
                     {
                         option: "Grecia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Filipinas",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Australia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "España",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -609,19 +609,19 @@ let questions =
         answer: [
                     {
                         option: "El océano Índico",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "El océano Pacífico",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El océano Atlántico",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El océano Ártico",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -631,19 +631,19 @@ let questions =
         answer: [
                     {
                         option: "Volvogrado",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Moscú",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Kazán",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Omsk",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -653,19 +653,19 @@ let questions =
         answer: [
                     {
                         option: "El meridiano de Greenwich",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La línea ecuatorial",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Trópico de Cáncer",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Trópico de Capricornio",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -675,19 +675,19 @@ let questions =
         answer: [
                     {
                         option: "Hungría",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Eslovaquia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Eslovenia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Moldavia",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -697,19 +697,19 @@ let questions =
         answer: [
                     {
                         option: "Argentina",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Paraguay",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Chile",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Perú",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -719,19 +719,19 @@ let questions =
         answer: [
                     {
                         option: "Francia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Estados Unidos",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "China",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Australia",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -741,19 +741,19 @@ let questions =
         answer: [
                     {
                         option: "50",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "48",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "23",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "75",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -763,19 +763,19 @@ let questions =
         answer: [
                     {
                         option: "Camboya",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Nigeria",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Egipto",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Mexico",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -785,19 +785,19 @@ let questions =
         answer: [
                     {
                         option: "China",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Rusia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Estados Unidos",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Brasil",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -807,19 +807,19 @@ let questions =
         answer: [
                     {
                         option: "Los montes Urales",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La cordillera de los Andes",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El Himalaya",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Los Alpes",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -829,19 +829,19 @@ let questions =
         answer: [
                     {
                         option: "Estados Unidos y Rusia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Francia y España",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Uruguay y Brasil",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Mexico y Guatemala",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -851,19 +851,19 @@ let questions =
         answer: [
                     {
                         option: "Chino mandarín",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Español",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Inglés",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Frances",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -873,19 +873,19 @@ let questions =
         answer: [
                     {
                         option: "China y Nepal",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Argentina y Chile",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Sudáfrica y Zimbabue",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Italia y Austria",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -895,19 +895,19 @@ let questions =
         answer: [
                     {
                         option: "Pablo Picasso",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Vincent Van Gogh",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Leonardo da Vinci",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Salvador Dalí",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -917,19 +917,19 @@ let questions =
         answer: [
                     {
                         option: "H.G. Wells",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "William Shakespeare",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Stephen King",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Edgar Allan Poe",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -939,19 +939,19 @@ let questions =
         answer: [
                     {
                         option: "Giuseppe Verdi",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Antonio Vivaldi",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Claudio Monteverdi",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Franco Mannino",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -961,19 +961,19 @@ let questions =
         answer: [
                     {
                         option: "Vincent",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "V.",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Willem",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "X",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -983,19 +983,19 @@ let questions =
         answer: [
                     {
                         option: "De cuerda",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "De viento",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "De percusión",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "Ninguna de las anteriores",
-                        true: false,
+                        option: "Ninguna de las restantes",
+                        isTrue: false,
                     },
                 ]
     },
@@ -1005,19 +1005,19 @@ let questions =
         answer: [
                     {
                         option: "Platón",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Sócrates",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Aristóteles",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Crátilo",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1027,19 +1027,19 @@ let questions =
         answer: [
                     {
                         option: "Camilo José Cela",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Miguel de Unamuno",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Lope de Vega",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Miguel Delibes",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1049,19 +1049,19 @@ let questions =
         answer: [
                     {
                         option: "El acueducto de Segovia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Teatro romano de Segovia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Templo de Augusto",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Itálica",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1071,19 +1071,19 @@ let questions =
         answer: [
                     {
                         option: "Federico García Lorca",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Antonio Machado",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Juan Ramón Jiménez",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pedro Salinas",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1093,19 +1093,19 @@ let questions =
         answer: [
                     {
                         option: "William Shakespeare",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Charles Dickens",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Oscar Wilde",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Agatha Christie",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1115,19 +1115,19 @@ let questions =
         answer: [
                     {
                         option: "Rocinante",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Babieca",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pegaso",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Bucéfalo",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1137,19 +1137,19 @@ let questions =
         answer: [
                     {
                         option: "Miguel de Cervantes",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Federico García Lorca",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Antonio Machado",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Miguel de Unamuno",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1159,19 +1159,19 @@ let questions =
         answer: [
                     {
                         option: "Leviatán",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Cíclope",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Unicornio",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Centauro",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1181,19 +1181,19 @@ let questions =
         answer: [
                     {
                         option: "¿Sueñan los robots con ovejas eléctricas?",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "El hombre en el castillo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Una mirada a la oscuridad",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ubik",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1203,19 +1203,19 @@ let questions =
         answer: [
                     {
                         option: "Emilio Salgari",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Umberto Eco",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Italo Calvino",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Stefano Benni",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1225,19 +1225,19 @@ let questions =
         answer: [
                     {
                         option: "Johannes Vermeer",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Salvador Dalí",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pablo Picasso",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Leonardo da Vinci",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1247,19 +1247,19 @@ let questions =
         answer: [
                     {
                         option: "Safo de Mitilene",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Corina",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Praxila",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Filina de Tesalia",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1269,19 +1269,19 @@ let questions =
         answer: [
                     {
                         option: "Diana Krall",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Nina Simone",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Norah Jones",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Melody Gardot",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1291,19 +1291,19 @@ let questions =
         answer: [
                     {
                         option: "John Kennedy Toole",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Ernest Hemingway",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Julio Cortázar",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "James Joyce",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1313,19 +1313,19 @@ let questions =
         answer: [
                     {
                         option: "Edvard Munch",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Eilif Peterssen",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Erik Werenskiold",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Gerhard Munthe",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1335,19 +1335,19 @@ let questions =
         answer: [
                     {
                         option: "Diciembre",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Junio",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Agosto",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Febrero",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1357,19 +1357,19 @@ let questions =
         answer: [
                     {
                         option: "Derecho",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Izquierdo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Centro",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "Ninguna de las anteriores",
-                        true: false,
+                        option: "Ninguna de las restantes",
+                        isTrue: false,
                     },
                 ]
     },
@@ -1379,19 +1379,19 @@ let questions =
         answer: [
                     {
                         option: "1",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "5",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "3",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "4",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1401,19 +1401,19 @@ let questions =
         answer: [
                     {
                         option: "118",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "130",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "123",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "115",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1423,19 +1423,19 @@ let questions =
         answer: [
                     {
                         option: "Ozono",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Neón",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Nitrógeno",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Argón",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1445,19 +1445,19 @@ let questions =
         answer: [
                     {
                         option: "Adenina, timina, guanina y citosina",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Adenina, uracilo, guanina y citosina",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Timina, uracilo, guanina y citosina",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Timina, uracilo, Adenina y citosina",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1466,20 +1466,20 @@ let questions =
         category: "Ciencia",
         answer: [
                     {
-                        option: "400.000 km/s",
-                        true: true,
+                        option: "300.000 km/s",
+                        isTrue: true,
                     },
                     {
                         option: "500.000 km/s",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "300.000 km/s",
-                        true: false,
+                        option: "400.000 km/s",
+                        isTrue: false,
                     },
                     {
                         option: "343.357 km/s",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1489,19 +1489,19 @@ let questions =
         answer: [
                     {
                         option: "Olfato",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Visión",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Gusto",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Audición",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1511,19 +1511,19 @@ let questions =
         answer: [
                     {
                         option: "Carbono",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Oxígeno",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Fósforo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Nitrógeno",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1533,19 +1533,19 @@ let questions =
         answer: [
                     {
                         option: "Mitosis",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Meiosis",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Metafase",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Anafase",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1555,19 +1555,19 @@ let questions =
         answer: [
                     {
                         option: "Eucariotas",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Procariotas",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Animal",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Vegetal",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1577,19 +1577,19 @@ let questions =
         answer: [
                     {
                         option: "Agave",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Uva",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Cebada",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ajenjo",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1599,19 +1599,19 @@ let questions =
         answer: [
                     {
                         option: "Alfred Russell Wallace",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Gregor Mendel",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Anton van Leeuwenhoek",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Alexander Fleming",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1621,19 +1621,19 @@ let questions =
         answer: [
                     {
                         option: "Carbonífero",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Cámbrico",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ordovícico",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Silúrico",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1643,19 +1643,19 @@ let questions =
         answer: [
                     {
                         option: "Hematología",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Oncología",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Nefrología",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Hepatología",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1665,19 +1665,19 @@ let questions =
         answer: [
                     {
                         option: "Febrero",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Diciembre",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Junio",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Septiembre",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1687,19 +1687,19 @@ let questions =
         answer: [
                     {
                         option: "Ácido desoxirribonucleico",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Ácido de nitrógeno",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Adenina doble núcleo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "Ninguna de las anteriores",
-                        true: false,
+                        option: "Ninguna de las restantes",
+                        isTrue: false,
                     },
                 ]
     },
@@ -1709,19 +1709,19 @@ let questions =
         answer: [
                     {
                         option: "Hidrógeno",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Oxígeno",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Litio",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Helio",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1731,19 +1731,19 @@ let questions =
         answer: [
                     {
                         option: "La medusa avispa de mar",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La serpiente cobra real",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "La rana dardo dorada",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El avispón asiático gigante",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1753,19 +1753,19 @@ let questions =
         answer: [
                     {
                         option: "4.543 millones de años",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "5.000 millones de años",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "3.846 millones de años",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "5.271 millones de años",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1775,19 +1775,19 @@ let questions =
         answer: [
                     {
                         option: "Charles Chaplin",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Marlon Brando",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Robert de Niro",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Leonardo DiCaprio",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1797,19 +1797,19 @@ let questions =
         answer: [
                     {
                         option: "Orson Welles",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Martin Scorsese",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Steven Spielberg",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Alfred Hitchcock",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1819,19 +1819,19 @@ let questions =
         answer: [
                     {
                         option: "Blancanieves",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La Cenicienta",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pinocho",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Alicia en el País de las Maravillas",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1841,19 +1841,19 @@ let questions =
         answer: [
                     {
                         option: "Georg Solti",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Stevie Wonder",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Beyoncé",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Jay Z",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1863,19 +1863,19 @@ let questions =
         answer: [
                     {
                         option: "Sarabi",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Nala",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pumba",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "Ninguna de las anteriores",
-                        true: false,
+                        option: "Ninguna de las restantes",
+                        isTrue: false,
                     },
                 ]
     },
@@ -1885,19 +1885,19 @@ let questions =
         answer: [
                     {
                         option: "Metallica",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Black Sabbath",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Iron Maiden",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "AC/DC",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1907,19 +1907,19 @@ let questions =
         answer: [
                     {
                         option: "La ciudad Esmeralda",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "La ciudad Diamante",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "En Bogotá",
-                        true: false,
+                        isTrue: false,
                     },
                     {
-                        option: "Ninguna de las anteriores",
-                        true: false,
+                        option: "Ninguna de las restantes",
+                        isTrue: false,
                     },
                 ]
     },
@@ -1929,19 +1929,19 @@ let questions =
         answer: [
                     {
                         option: "2013",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "2012",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "2011",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "2014",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1951,19 +1951,19 @@ let questions =
         answer: [
                     {
                         option: "Baker Street",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Wall Street",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Northhumberland Street",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Evergreen Terrace",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1973,19 +1973,19 @@ let questions =
         answer: [
                     {
                         option: "Link",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Ash",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Taichi",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ganondorf",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -1995,19 +1995,19 @@ let questions =
         answer: [
                     {
                         option: "Alan Moore",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "J. K. Rowling",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Charles Dickens",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "George Orwell",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2017,19 +2017,19 @@ let questions =
         answer: [
                     {
                         option: "Johnny Galecki",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Jim Parsons",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Simon Helberg",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Kunal Nayyar",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2039,19 +2039,19 @@ let questions =
         answer: [
                     {
                         option: "Sean Connery",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Roger Moore",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "George Lazenby",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pierce Brosnan",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2061,19 +2061,19 @@ let questions =
         answer: [
                     {
                         option: "Alas",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Amanecer",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Hermanos de armas",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "El séptimo cielo)",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2083,19 +2083,19 @@ let questions =
         answer: [
                     {
                         option: "Daft Punk",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Modjo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Stardust",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Motorbass",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2105,19 +2105,19 @@ let questions =
         answer: [
                     {
                         option: "El Rubius",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "AuronPlay",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "VEGETTA777",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "The WillyRex",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2127,19 +2127,19 @@ let questions =
         answer: [
                     {
                         option: "Optimus Prime",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Bumblebee",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Megatron",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ratchet",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2149,19 +2149,19 @@ let questions =
         answer: [
                     {
                         option: "Milú",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Chuletas",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Firulais",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Odie",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2171,19 +2171,19 @@ let questions =
         answer: [
                     {
                         option: "Chuck Palahniuk",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Stephen King",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Paul Auster",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Peter Abrahams",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2193,19 +2193,19 @@ let questions =
         answer: [
                     {
                         option: "Audrey Hepburn",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Jessie Matthews",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Gillian Lynne",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Moira Shearer",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2215,19 +2215,19 @@ let questions =
         answer: [
                     {
                         option: "Charlotte Cooper",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Fanny Blankers-Koen",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Allyson Felix",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Larissa Latynina",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2237,19 +2237,19 @@ let questions =
         answer: [
                     {
                         option: "Judokas",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Judoquistas",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Judaos",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Judos",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2259,19 +2259,19 @@ let questions =
         answer: [
                     {
                         option: "Amarillo, azul, negro, rojo y verde.",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Amarillo, violeta, negro, rojo y verde.",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Amarillo, azul, blanco, rojo y verde.",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Amarillo, celeste, violeta, rojo y verde.",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2281,19 +2281,19 @@ let questions =
         answer: [
                     {
                         option: "Atletismo",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Futbol",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Basquet",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Tenis",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2303,19 +2303,19 @@ let questions =
         answer: [
                     {
                         option: "Inglaterra",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "China",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "España",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Canadá",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2325,19 +2325,19 @@ let questions =
         answer: [
                     {
                         option: "Usain Bolt",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Florence Griffith Joyner",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Elaine Thompson-Herah",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Marcell Jacobs",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2347,19 +2347,19 @@ let questions =
         answer: [
                     {
                         option: "Thomas Gravessen",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Michael Laudrup",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Brian Laudrup",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Michael Gravessen",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2369,19 +2369,19 @@ let questions =
         answer: [
                     {
                         option: "Cassius Clay",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Sonny Liston",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Joe Frazier",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ken Norton",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2391,19 +2391,19 @@ let questions =
         answer: [
                     {
                         option: "Marc Márquez",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Valentino Rossi",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Ángel Nieto",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Mike Hailwood",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2413,19 +2413,19 @@ let questions =
         answer: [
                     {
                         option: "New York Yankees",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Boston Red Sox",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Toronto Blue Jays",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Tampa Bay Rays",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2435,19 +2435,19 @@ let questions =
         answer: [
                     {
                         option: "Miroslav Klose",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Ronaldo",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Gerd Müller",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Pelé",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2457,19 +2457,19 @@ let questions =
         answer: [
                     {
                         option: "Los Boston Celtics",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Los Angeles Lakers",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Chicago Bulls",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Philadelphia",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2479,19 +2479,19 @@ let questions =
         answer: [
                     {
                         option: "Junko Tabei",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Edurne Pasaban",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Wanda Rutkiewicz",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Lucy Walker",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2501,19 +2501,19 @@ let questions =
         answer: [
                     {
                         option: "Los Angeles Galaxy",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Manchester United",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Real Madrid",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "PSG",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2523,19 +2523,19 @@ let questions =
         answer: [
                     {
                         option: "Seis",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Cinco",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Siete",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Cuatro",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2545,19 +2545,19 @@ let questions =
         answer: [
                     {
                         option: "Tres",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Ocho",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Doce",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Uno",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2567,19 +2567,19 @@ let questions =
         answer: [
                     {
                         option: "Brasil",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Alemania",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Italia",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Argentina",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2589,19 +2589,19 @@ let questions =
         answer: [
                     {
                         option: "Fausto Coppi",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Vittorio Adorni",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Elio Aggiano",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Bartolomeo Aymo",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2611,19 +2611,19 @@ let questions =
         answer: [
                     {
                         option: "Valencia",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Castellón",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Madrid",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Barcelona",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },
@@ -2633,19 +2633,19 @@ let questions =
         answer: [
                     {
                         option: "El muay thai",
-                        true: true,
+                        isTrue: true,
                     },
                     {
                         option: "Capoeira",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Kickboxing",
-                        true: false,
+                        isTrue: false,
                     },
                     {
                         option: "Krav Maga",
-                        true: false,
+                        isTrue: false,
                     },
                 ]
     },

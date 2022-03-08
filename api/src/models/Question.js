@@ -10,6 +10,12 @@ module.exports = (sequelize) => {
     },
     answer: {
       type: DataTypes.ARRAY(DataTypes.JSON),
+      allowNull: false,
+    },
+    active: {
+      type: DataTypes.BOOLEAN,
+      allowNull: false,
+      defaultValue: true,
     },
   });
 };
