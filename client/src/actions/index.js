@@ -3,7 +3,7 @@ import axios from "axios";
 export function getCategories() {
     return async function (dispatch){
         try{
-            const info = await axios.get('http://localhost:3001/categories', {})
+            const info = await axios.get('/categories', {})
             return dispatch({
                 type: "GET_CATEGORIES",
                 payload: info.data
@@ -17,7 +17,7 @@ export function getCategories() {
 export function getQuestions(payload){
     return async function (dispatch){
         try {
-            const json = await axios.get("http://localhost:3001/questions/" + payload)
+            const json = await axios.get("/questions/" + payload)
             return dispatch({
                 type: "GET_QUESTIONS",
                 payload: json.data
@@ -31,7 +31,7 @@ export function getQuestions(payload){
 export function postRanking(payload){
     return async function (dispatch){
         try {
-            const json = await axios.post("http://localhost:3001/ranking/", payload)
+            const json = await axios.post("/ranking/", payload)
             return dispatch({
                 type: "POST_RANKING",
                 payload: json.data
@@ -45,7 +45,7 @@ export function postRanking(payload){
 export function getRanking(payload){
     return async function (dispatch){
         try {
-            const json = await axios.get("http://localhost:3001/ranking/" + payload)
+            const json = await axios.get("/ranking/" + payload)
             return dispatch({
                 type: "GET_RANKING",
                 payload: json.data

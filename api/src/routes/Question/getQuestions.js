@@ -19,7 +19,7 @@ const getQuestions = ("/", async (req, res, next) => {
         });
         let result = allQuestion.filter(e => e.category.name.toLowerCase() === category.toLowerCase());
         fisherYatesShuffle(result);
-        result = result.slice(0, 2);
+        result = result.slice(0, 20);
         result?.map((e) => {
             fisherYatesShuffle(e.answer);
         })
