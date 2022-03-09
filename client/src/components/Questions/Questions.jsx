@@ -28,59 +28,85 @@ export default function Questions(){
     }, [count])
 
     function handleSubmit (e, isTrue) {
-        isTrue && setScore(score + 1);
+        isTrue ?
+            setScore(score + 1) :
+            document.getElementById(questions[actualQuestion].answer.find((e) => e.isTrue).option).classList.add("correctIncorrect");
         e.target.classList.add(isTrue ? "correct" : "incorrect");
         setAreDisabeld(true);
         setTimeout(() => {
-            actualQuestion === questions.length - 1 ?
-            setIsFinished(true) :
-            setActualQuestion(actualQuestion + 1);
             handleContinue();
-        }, 1000);
+        }, 1500);
         
     }
 
     function handleContinue (e) {
+        actualQuestion === questions.length - 1 ?
+            setIsFinished(true) :
+            setActualQuestion(actualQuestion + 1);
         setCount(10);
         setAreDisabeld(false);
     }
 
     if(isFinished) {
     return (
-        <div>
-            <h1>Felicidades, haz terminado el juego!</h1>
-            <h3>Tuviste {score} respuestas correctas</h3>
-            <button onClick={() => {window.location.href="/"}}>Volver a jugar</button>
+        <div className="container">
+            <div className="row vh-100 justify-content-center align-items-center">
+                <div className="col-12">
+                    <div className="row rounded border boxBack text-center">
+                        <h1>Felicidades, haz terminado el juego!</h1>
+                    </div>
+                    <div className="row rounded border boxBack text-center">
+                        <h3>Tuviste {score} respuestas correctas</h3>
+                    </div>
+                    <div className="row rounded border boxBack">
+                        <div className="col-xs-12 text-center">
+                            <button onClick={() => {window.location.href="/"}} className="btn btn-primary">Volver a jugar</button>
+                        </div>
+                    </div>    
+                </div>    
+            </div>
         </div>
     )
     }
     return (
-    <div>
-        <div>
-            <h3>Pregunta {actualQuestion + 1} de {questions.length}</h3>
-        </div>
-        <div>
-            <h1>{questions[actualQuestion]?.question}</h1>
-        </div>
-        <div>
-            {
-                questions[actualQuestion]?.answer.map((el) => (
-                    <button
-                        key={el.option}
-                        onClick={(e) => handleSubmit(e, el.isTrue)}
-                        disabled={areDisabled}>
-                        {el.option}
-                    </button>
-                ))
-            }
-        </div>
-        <div>
-            {
-                !areDisabled ? 
-                <span>Tiempo restante: {count}</span>
-                :
-                <button onClick={(e) => handleContinue(e)}>Continuar</button>
-            }
+    <div className="container">
+        <div className="row vh-100 justify-content-center align-items-center">
+            <div className="col-12">
+                <div className="row rounded border boxBack text-center">
+                    <h5>Pregunta {actualQuestion + 1} de {questions.length}</h5>
+                </div>
+                <div className="row rounded border boxBack text-center">
+                    <h2>{questions[actualQuestion]?.question}</h2>
+                </div>
+                <div className="row rounded border boxBack">
+                    {
+                        questions[actualQuestion]?.answer.map((el) => (
+                            <div className="col-xs-12 col-md-6 text-center">
+                            <button
+                                key={el.option}
+                                id={el.option}
+                                onClick={(e) => handleSubmit(e, el.isTrue)}
+                                disabled={areDisabled}
+                                className="btn btn-primary">
+                                {el.option}
+                            </button>
+                            </div>
+                        ))
+                    }
+                </div>
+                <div className="row rounded border boxBack">
+                    {
+                        count > 0 ? 
+                        <div className="col-xs-12 text-center">
+                            <span>Tiempo restante: {count}</span>
+                        </div>
+                        :
+                        <div className="col-xs-12 text-center">
+                            <button onClick={(e) => handleContinue(e)} className="btn btn-primary">Continuar</button>
+                        </div>
+                    }
+                </div>
+            </div>
         </div>
     </div>
     )

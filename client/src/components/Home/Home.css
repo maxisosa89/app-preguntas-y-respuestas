@@ -1,0 +1,81 @@
+.title {
+    background-color: #16041F;
+    padding: 5%;
+    margin-bottom: 1%;
+}
+
+.box2 {
+    background-color: #16041F;
+    padding: 5%;
+    margin-top: 1%;
+}
+
+h1, h3 {
+    color: #FFFFD9;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.btn {
+    width: 100%;
+    margin: 2%;
+}
+
+#Arte {
+    background-color: rgb(242,38,49) !important;
+    border-color: rgb(242,38,49) !important;
+}
+
+#Arte:hover {
+    background-color: #ff394a !important;
+    border-color: #ff394a !important;
+}
+
+#Historia {
+    background-color: rgb(32,200,104)    !important;
+    border-color: rgb(32,200,104)    !important;
+}
+
+#Historia:hover {
+    background-color: #30ff9c    !important;
+    border-color: #30ff9c    !important;
+}
+
+#Geografía {
+    background-color: rgb(21,116,205)    !important;
+    border-color: rgb(21,116,205) !important;
+}
+
+#Geografía:hover {
+    background-color: #20aeff    !important;
+    border-color: #20aeff    !important;
+}
+
+#Deportes {
+    background-color: rgb(137,67,176) !important;
+    border-color: rgb(137,67,176) !important;
+}
+
+#Deportes:hover {
+    background-color: #ce65ff !important;
+    border-color: #ce65ff !important;
+}
+
+#Ciencia {
+    background-color: rgb(249,221,65) !important;
+    border-color: rgb(249,221,65) !important;
+}
+
+#Ciencia:hover {
+    background-color: #ffff62 !important;
+    border-color: #ffff62 !important;
+}
+
+#Entretenimiento {
+    background-color: rgb(254,148,0) !important;
+    border-color: rgb(254,148,0) !important;
+}
+
+#Entretenimiento:hover {
+    background-color: #ffde00 !important;
+    border-color: #ffde00 !important;
+}

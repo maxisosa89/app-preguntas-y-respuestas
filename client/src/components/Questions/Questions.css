@@ -1,6 +1,42 @@
+.btn {
+    border-color: #341436 !important;
+    background-color: #341436 !important;
+    color: #FFFFD9 !important;
+}
+
+.btn:hover {
+    border-color: #4e1e51 !important;
+    background-color: #4e1e51 !important;
+}
+
 .correct {
-    background-color: green;
+    background-color: green !important;
+}
+.correct:hover {
+    background-color: green !important;
 }
 .incorrect {
-    background-color: red;
+    background-color: red !important;
 }
+.incorrect:hover {
+    background-color: red !important;
+}
+.correctIncorrect {
+    background-color: green !important;
+    opacity: 50% !important;
+}
+.correctIncorrect:hover {
+    background-color: green !important;
+    opacity: 50% !important;
+}
+
+.boxBack {
+    background-color: #16041F;
+    padding: 2%;
+}
+
+h2, h5, span {
+    color: #FFFFD9;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
