@@ -21,14 +21,7 @@
 .incorrect:hover {
     background-color: red !important;
 }
-.correctIncorrect {
-    background-color: green !important;
-    opacity: 50% !important;
-}
-.correctIncorrect:hover {
-    background-color: green !important;
-    opacity: 50% !important;
-}
+
 
 .boxBack {
     background-color: #16041F;
