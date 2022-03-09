@@ -1,6 +1,7 @@
 const initialState = {
     categories: [],
-    questions: []
+    questions: [],
+    ranking: []
 }
 
 function rootReducer (state= initialState, action) {
@@ -15,6 +16,11 @@ function rootReducer (state= initialState, action) {
             return {
                 ...state,
                 questions: action.payload
+            }
+        case "GET_RANKING":
+            return {
+                ...state,
+                ranking: action.payload
             }
         default: return state
     }

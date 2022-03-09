@@ -27,3 +27,31 @@ export function getQuestions(payload){
         }
     }
 }
+
+export function postRanking(payload){
+    return async function (dispatch){
+        try {
+            const json = await axios.post("http://localhost:3001/ranking/", payload)
+            return dispatch({
+                type: "POST_RANKING",
+                payload: json.data
+            })
+        } catch(err){
+            console.log(err)
+        }
+    }
+}
+
+export function getRanking(payload){
+    return async function (dispatch){
+        try {
+            const json = await axios.get("http://localhost:3001/ranking/" + payload)
+            return dispatch({
+                type: "GET_RANKING",
+                payload: json.data
+            })
+        } catch(err){
+            console.log(err)
+        }
+    }
+}

@@ -3,6 +3,7 @@ import { getCategories } from "../../actions/index";
 import { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
+import Navbar from "../Navbar/Navbar";
 import styles from './Home.css'
 
 export default function Home(){
@@ -14,6 +15,8 @@ export default function Home(){
     }, [dispatch])
 
     return (
+        <div className="globalContainer">
+        <Navbar />
         <div className="container">
             <div className="row vh-100 justify-content-center align-items-center">
                 <div className="col-auto">
@@ -41,6 +44,7 @@ export default function Home(){
                 </div>
             </div>
             
+        </div>
         </div>
     )
 }

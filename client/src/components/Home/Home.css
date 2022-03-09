@@ -1,3 +1,7 @@
+.globalContainer {
+    margin-top: 0px !important;
+}
+
 .title {
     background-color: #16041F;
     padding: 5%;

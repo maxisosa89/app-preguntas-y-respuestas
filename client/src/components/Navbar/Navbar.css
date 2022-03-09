@@ -1,0 +1,20 @@
+.LinkTo {
+    text-decoration: none;
+}
+
+.divContainer {
+    margin-left: 45%;
+}
+
+#navbarNavAltMarkup {
+    margin-left: 40%;
+}
+
+nav.navbar {
+    background-color: #16041F !important;
+}
+
+span {
+    color: #FFFFD9 !important;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}

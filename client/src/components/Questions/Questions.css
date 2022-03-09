@@ -35,8 +35,16 @@
     padding: 2%;
 }
 
-h2, h5, span {
+h1, h2, h3, h5, span, th, td {
     color: #FFFFD9;
     font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 
+#boxFinished{
+    padding-top: 100px !important;
+
+}
+
+#boxFinishedGlobal {
+    padding-bottom: 30% !important;
+}
